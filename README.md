@@ -11,13 +11,13 @@ Security Monitoring & Alert Triage Incident Detection & Response Log Analysis (S
 SIEM: Splunk, Elastic, Microsoft Sentinel EDR/XDR: Microsoft Defender, CrowdStrike (conceptual) Network Tools: Wireshark, Zeek, Network Miner Operating Systems: Windows, Linux Scripting: Python (basic automation), Bash Threat Intel: VirusTotal, AbuseIPDB, Hybrid Analysis Cloud Security: Azure (Security fundamentals)
 
 
-| Project                                         | Description                                                  |
-| ------------------------------------------------|--------------------------------------------------------------|
-| SOC Home Lab                                    | Built a simulated SOC environment using SIEM and log sources |
-| Incident Response Playbooks                     | Documented IR workflows for common attack scenarios          |
-| Phishing Analysis Lab                           | Analyzed malicious emails and extracted IOCs                 |
-| Log Analysis Exercises                          | Investigated SSH security events using Splunk queries            |
-| Malware Triage                                  | Static analysis of suspicious files                          |
+| Project                                             | Description                                                               |
+| ----------------------------------------------------|---------------------------------------------------------------------------|
+| SOC Home Lab                                        | Built a simulated SOC environment using SIEM and log sources              |
+| Vulnerability assessment on metasploit enviorment   | Performed Vulnerability scan on vulnerable metasploit environment         |
+| Phishing Analysis Lab                               | Analyzed malicious emails and extracted IOCs                              |
+| Log Analysis Exercises                              | Investigated SSH security events using Splunk queries                     |
+| Malware Triage                                      | Static analysis of suspicious files                                       |
 
 
 📜 Certifications & Learning
