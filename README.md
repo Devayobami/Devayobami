@@ -18,7 +18,7 @@ SIEM: Splunk, Elastic, Microsoft Sentinel, Wazuh EDR/XDR: Microsoft Defender, Cr
 | Phishing Analysis Lab                               | Analyzed malicious emails and extracted IOCs                              |
 | Log Analysis Exercises                              | Investigated SSH security events using Splunk queries                     |
 | Malware Triage                                      | Performed Static and Dynamic analysis of suspicious files using FlareVM   |                                     
-| Active Directory                                    | Deployed and configured a cloud-based Active Directory environment in Microsoft  |                                                      Azure to simulate enterprise identity and user management infrastructure   |
+| Active Directory                                    | Deployed and configured a cloud-based Active Directory environment in Microsoft  |                                                     |Azure to simulate enterprise identity and user management infrastructure   |
 
 
 📜 Certifications & Learning
