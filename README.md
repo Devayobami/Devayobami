@@ -19,6 +19,7 @@ SIEM: Splunk, Elastic, Microsoft Sentinel, Wazuh EDR/XDR: Microsoft Defender, Cr
 | Log Analysis Exercises                              | Investigated SSH security events using Splunk queries                     |
 | Malware Triage                                      | Performed Static and Dynamic analysis of suspicious files using FlareVM   |                                     
 | Active Directory                                    | Configured domain controllers, domain-joined workstations, Organizational Units, and user lifecycle management. |                                                     |
+|Cloud-based GRC Risk Assesment | Cloud Security Risk Assessment (GRC) on Microsoft Azure VM | Risk Analysis, Control Mapping (ISO 27001, NIST, CIS), and Security Recommendations  |
 
 📜 Certifications & Learning
 
